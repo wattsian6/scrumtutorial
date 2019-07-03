@@ -1,2 +1,2 @@
 # scrumtutorial
-tutorial repository
+tutorial repository im doing this for my scrum class
